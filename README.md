@@ -15,8 +15,13 @@ Fee_Prediction.ipynb - Contains all the different types of regression for predic
 
 # Contribution
 Om (202001462) : Neural Network for predicting waiting time class ,Regresssion model for predicting waiting time class
+
 Hetav (202001447) : EDA, Fee_Prediction Model, Linear regresssion model for predicting waiting time class
+
 Vrund (202001075) : EDA, Fee_Prediction Model, Linear regresssion model for predicting waiting time class
+
 Vandan (202001041) : EDA
+
 Arth (202001274) : EDA
+
 Ayush (202001126) :EDA
