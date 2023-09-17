@@ -9,3 +9,5 @@ waiting_time_prediction.md - Contains description and all the experiments relate
 waiting_time_regression.ipynb - Contains all the different types of regression for prediction of waiting time.
 
 waiting_time_neural_network.ipynb - Contains neural network model on waiting time.
+
+Fee_Prediction.ipynb - Contains all the different types of regression for prediction of fee.
