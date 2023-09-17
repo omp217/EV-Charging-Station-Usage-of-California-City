@@ -12,6 +12,8 @@ waiting_time_neural_network.ipynb - Contains neural network model on waiting tim
 
 Fee_Prediction.ipynb - Contains all the different types of regression for prediction of fee.
 
+finalEDA_arth.ipynb - Containas additonal analysis by Arth
+
 
 # Contribution
 Om (202001462) : Neural Network for predicting waiting time class ,Regresssion model for predicting waiting time class
